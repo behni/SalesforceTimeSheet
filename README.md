@@ -14,4 +14,4 @@ Assign the following permission sets to the following user group:
 * Stundennachweis Lesezugriff: For project members who needs to have read only access to the timesheet and hours without edit access. For example the project manager of the client.
 * Stundennachweis Schreibzugriff: For project members who needs to have edit access to the timesheets and hours with edit access to track the worked hours. For example the development team.
 
-When access was granted, the user can access the app through the app launcher and then the tab called "Timesheets". Under timesheets create a new main project. In the project the users can track thier working hours with a short discription.
+When access was granted, the user can access the app through the app launcher and then the tab called "Stundennachweise". Under timesheets create a new main project. In the project the users can track thier working hours with a short discription.

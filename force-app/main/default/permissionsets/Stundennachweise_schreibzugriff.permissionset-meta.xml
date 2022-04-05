@@ -61,4 +61,8 @@
         <object>Timesheet__c</object>
         <viewAllRecords>true</viewAllRecords>
     </objectPermissions>
+    <tabSettings>
+        <tab>Timesheet__c</tab>
+        <visibility>Visible</visibility>
+    </tabSettings>
 </PermissionSet>
