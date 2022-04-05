@@ -159,7 +159,6 @@
     <enableSharing>true</enableSharing>
     <enableStreamingApi>true</enableStreamingApi>
     <externalSharingModel>Private</externalSharingModel>
-    <gender>Masculine</gender>
     <label>Stundennachweis</label>
     <nameField>
         <label>Timesheet Name</label>

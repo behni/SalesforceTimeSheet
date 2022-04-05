@@ -159,7 +159,6 @@
     <enableSharing>true</enableSharing>
     <enableStreamingApi>true</enableStreamingApi>
     <externalSharingModel>ControlledByParent</externalSharingModel>
-    <gender>Feminine</gender>
     <label>Stunden</label>
     <nameField>
         <displayFormat>ST-{000000}</displayFormat>
